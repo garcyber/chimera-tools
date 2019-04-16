@@ -14,15 +14,16 @@ Berikut fitur utama dari testssl.sh
 - Heck, even the development is open (github)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Cara Install
-Caranya cukup mudah. Tapi sebelum itu pastikan dependensinya sudah terinstall:
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Caranya cukup mudah. 
+Tapi sebelum itu pastikan dependensinya sudah terinstall:
+++++
 openssl
-
 git
-+++++++++++++++
++++++++++
 Download testssl.sh nya, lalu :
 ./testssl.sh https://domain.com
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Namun kalian juga bisa mendapatkan hasil yang lebih rinci dengan menggunakan beberapa perintah yang tersedia. Bisa dicek dengan perintah :
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Namun kalian juga bisa mendapatkan hasil yang lebih rinci dengan menggunakan beberapa perintah yang tersedia. 
+Bisa dicek dengan perintah :
++++++++++++
 ./testssl.sh --help
