@@ -23,24 +23,3 @@ Is a tool for scanning and massive exploits. Our tools target several open sourc
 1. ```PHP 7 (version and up)```
 2. ```Install Modules PHP : php-cli & php-curl for linux```
 
-## Credits
-
-- Thanks to allah
-- Eka Syahwan (Creator) https:/bugrecon.or.id
-- Edo Maland (Powerstager) https://github.com/Screetsec
-- Jack Wilder admin in http://www.linuxsec.org
-- Pak Haxor 
-- FaturFreak
-
-## News 
-- https://www.linuxsec.org/2018/09/svscanner.html
-- https://www.kitploit.com/2018/09/svscanner-scanner-vulnerability-and.html
-- http://www.prodefence.org/svscanner-scanner-vulnerability-and-massive-exploit/
-
-## Want to contribute
-
-send the target live and what exploits are used.
-then send to maunikah1337@gmail.com
-
-## Disclaimer
-Note: modifications, changes, or changes to this code can be accepted, however, every public release that uses this code must be approved by writing this tool (Eka S)
