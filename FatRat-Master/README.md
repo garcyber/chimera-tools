@@ -13,9 +13,7 @@ An Easy tool to Generate Backdoor for bypass AV and Easy Tool For Post exploitat
 
 The malware that created with this tool also have an ability to bypass most AV software protection . 
         
-### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+
 
 # Screenshots
 <img src="https://cloud.githubusercontent.com/assets/17976841/25420100/9ee12cf6-2a80-11e7-8dfa-c2e3cfe71366.png" width="55%"></img>
