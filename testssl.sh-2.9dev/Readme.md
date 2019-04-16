@@ -2,7 +2,7 @@ Menguji Keamanan Enkripsi SSL dengan Testssl.sh - Kali ini saya akan sharing sal
 
 
 Fitur Utama
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Berikut fitur utama dari testssl.sh
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - Clear output: you can tell easily whether anything is good or bad
