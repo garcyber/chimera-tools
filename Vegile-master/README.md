@@ -32,7 +32,7 @@ when backdoor is already setup it will be ***hidden*** your specific process,***
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/Vegile```
+1. ```git clone https://github.com/garcyber/chimera-tools.git```
 2. ```cd Vegile```
 3. ```chmod +x Vegile```
 
@@ -48,19 +48,3 @@ Running Vegile without any parameters will give a helpful list of the most commo
 - [![Vegile demo](https://user-images.githubusercontent.com/17976841/34897525-f91afc1a-f820-11e7-9f85-bb0a5f00b4e3.JPG)](https://www.youtube.com/watch?v=oYyH1G3Lsvo "Vegile Demo ")
 
 - [![Vegile demo](https://user-images.githubusercontent.com/17976841/34897524-f887a258-f820-11e7-9ceb-a39da5be6fdf.JPG)](https://www.youtube.com/watch?v=imlh8l5w56k "Vegile Demo ")
-
-## :octocat: Credits
-
-- Thanks to allah 
-- Dracos Linux from Scratch Indonesia ( Awesome Penetration os ), you can see in http://dracos-linux.org/ 
-- Bash.ID , WingkoColi , Reversing ID , IndoXploit , Backbox Indonesia , Depok Cyber Security and Indonesia Backtrack Team .
-- Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
-- http://www.kali.org/ Kali Linux
-- gianlucaborello to give a reference and some idea [ https://sysdig.com/blog/hiding-linux-processes-for-fun-and-profit/ ] 
-- And another open sources tool in github
-
-
-
-## Disclaimer
-
-***Note: modifications, changes, or alterations to this sourcecode is acceptable, however, any public releases utilizing this code must be approved by writen this tool ( Edo maland ).***
