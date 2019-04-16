@@ -1,10 +1,8 @@
 Menguji Keamanan Enkripsi SSL dengan Testssl.sh - Kali ini saya akan sharing salahsatu tool yang bisa membantu kalian untuk menguji SSL yang terpasang di server. Testssl.sh adalah tool yang dikembangkan dengan bahasa pemrograman bash dan digunakan untuk menguji SSL. Dengan testssl.sh, kalian bisa mengecek apakah ada kesalahan konfigurasi yang menyebabkan bug, menguji koneksi HTTPS dengan simulasi dari beberapa device berbeda, dan masih banyak fitur lain.
 
 
-Fitur Utama
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Berikut fitur utama dari testssl.sh
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++
 - Clear output: you can tell easily whether anything is good or bad
 - Ease of installation: It works for Linux, OSX/Darwin, FreeBSD, NetBSD, OpenBSD (needs bash) and MSYS2/Cygwin out of the box: no need to   install or to configure something. No gems, CPAN, pip or the like/
 - Flexibility: You can test any SSL/TLS enabled and STARTTLS service, not only webservers at port 443
