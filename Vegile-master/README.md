@@ -32,7 +32,7 @@ when backdoor is already setup it will be ***hidden*** your specific process,***
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/Vegile.git```
+1. ```git clone https://github.com/Screetsec/Vegile```
 2. ```cd Vegile```
 3. ```chmod +x Vegile```
 
