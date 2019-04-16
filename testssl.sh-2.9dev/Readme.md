@@ -18,7 +18,7 @@ Caranya cukup mudah. Tapi sebelum itu pastikan dependensinya sudah terinstall:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 openssl
 git
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++
 Download testssl.sh nya, lalu :
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ./testssl.sh https://domain.com
